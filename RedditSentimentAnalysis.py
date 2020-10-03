@@ -41,7 +41,7 @@ if(__name__=="__main__"):
             query = 'timestamp:{}..{}'.format(day_start, day_end)
 
             sub_submissions = subreddit.search(query, sort='new')
-
+            
             sub_sentiment = 0
             num_comments = 0
 
