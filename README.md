@@ -1,6 +1,6 @@
 # 0Python
 My [notebooks, data, test] regarding [Python, ML, AI, Whatever]
 
-- APAFlow - PyCaret
-- Alterix
-- Knime
+- [APAFlow](https://apaflow.com/) - PyCaret
+- [Alterix](https://www.alteryx.com/)
+- [Knime](https://www.knime.com/)
